@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucatirel, from Rome
 - 👀 I’m interested in Engineering, Informatics, and Automation, especially in Control Systems
-- 🌱 Machine Learning Engineer at CSA Documents
+- 🌱 Avionic Systems Engineer at Leonardo Helicopters 
 - 💞️ I love to code in Python, Matlab, Simulink and develop ML models and automations
 - 📫 For any info you can email me at lucatirel96@gmail.com
 
